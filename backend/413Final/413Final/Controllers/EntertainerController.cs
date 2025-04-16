@@ -1,4 +1,8 @@
-﻿using _413Final.Data;
+﻿// Controller: EntertainerController
+// Handles CRUD operations for entertainers
+// Includes a custom endpoint to get booking stats
+
+using _413Final.Data;
 using _413Final.Models;
 using _413Final.Models.Dto;
 using Microsoft.AspNetCore.Mvc;
@@ -17,6 +21,7 @@ namespace _413Final.Controllers
             _context = context;
         }
 
+        // GET: Returns all entertainers with basic info
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
@@ -24,6 +29,7 @@ namespace _413Final.Controllers
             return Ok(entertainers);
         }
 
+        // GET: Returns detailed entertainer data with booking count and last booking
         [HttpGet("WithStats")]
         public async Task<IActionResult> GetWithStats()
         {

@@ -10,6 +10,7 @@ type Entertainer = {
   lastBookingDate: string | null;
 };
 
+// Displays a list of entertainers with booking stats and links to details
 const Entertainers = () => {
   const [entertainers, setEntertainers] = useState<Entertainer[]>([]);
 

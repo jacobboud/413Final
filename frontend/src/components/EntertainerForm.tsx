@@ -1,3 +1,10 @@
+/**
+ * Component: EntertainerForm
+ * Allows user to add or edit an entertainer.
+ * Fields: Name, Email, Phone, City, State
+ * Navigates back to list after submission.
+ */
+
 import { useEffect, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import {
@@ -6,9 +13,11 @@ import {
   updateEntertainer,
 } from '../api/entertainerApi';
 
+// Unified form for both adding and editing an entertainer
 const EntertainerForm = () => {
   const { id } = useParams();
   const navigate = useNavigate();
+  // Determine whether the form is in edit or create mode
   const isEditing = Boolean(id);
 
   const [entertainer, setEntertainer] = useState({

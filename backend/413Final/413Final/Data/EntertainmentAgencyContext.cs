@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace _413Final.Data
 {
+    // Database context for accessing Entertainers and Engagements tables
     public class EntertainmentAgencyContext : DbContext
     {
         public EntertainmentAgencyContext(DbContextOptions<EntertainmentAgencyContext> options)

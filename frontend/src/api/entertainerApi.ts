@@ -8,6 +8,7 @@ export const getAllEntertainers = async () => {
   return response.data;
 };
 
+// Fetch entertainers with total bookings and latest booking date
 export const getEntertainersWithStats = async () => {
   const response = await axios.get(`${API_BASE}/WithStats`);
   return response.data;

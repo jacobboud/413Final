@@ -11,6 +11,7 @@ type Props = {
   entertainers: Entertainer[];
 };
 
+// Reusable table for displaying a list of entertainers
 const EntertainerList = ({ entertainers }: Props) => {
   return (
     <table className="table table-striped">

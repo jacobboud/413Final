@@ -1,5 +1,6 @@
 ﻿namespace _413Final.Models.Dto
 {
+    // DTO used to include booking stats in list view
     public class EntertainerWithStats
     {
         public int EntertainerID { get; set; }
