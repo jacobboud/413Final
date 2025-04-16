@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jacob\\source\\repos\\413Final\\backend\\413Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB34309-29CD-470C-8541-0A49EF54005A}|413Final\\413Final.csproj|c:\\users\\jacob\\source\\repos\\413final\\backend\\413final\\413final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB34309-29CD-470C-8541-0A49EF54005A}|413Final\\413Final.csproj|solutionrelative:413final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB34309-29CD-470C-8541-0A49EF54005A}|413Final\\413Final.csproj|c:\\users\\jacob\\source\\repos\\413final\\backend\\413final\\413final\\controllers\\entertainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB34309-29CD-470C-8541-0A49EF54005A}|413Final\\413Final.csproj|solutionrelative:413final\\controllers\\entertainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB34309-29CD-470C-8541-0A49EF54005A}|413Final\\413Final.csproj|c:\\users\\jacob\\source\\repos\\413final\\backend\\413final\\413final\\data\\entertainmentagencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB34309-29CD-470C-8541-0A49EF54005A}|413Final\\413Final.csproj|solutionrelative:413final\\data\\entertainmentagencycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB34309-29CD-470C-8541-0A49EF54005A}|413Final\\413Final.csproj|c:\\users\\jacob\\source\\repos\\413final\\backend\\413final\\413final\\models\\engagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB34309-29CD-470C-8541-0A49EF54005A}|413Final\\413Final.csproj|solutionrelative:413final\\models\\engagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB34309-29CD-470C-8541-0A49EF54005A}|413Final\\413Final.csproj|c:\\users\\jacob\\source\\repos\\413final\\backend\\413final\\413final\\models\\dto\\entertainerwithstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB34309-29CD-470C-8541-0A49EF54005A}|413Final\\413Final.csproj|solutionrelative:413final\\models\\dto\\entertainerwithstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB34309-29CD-470C-8541-0A49EF54005A}|413Final\\413Final.csproj|c:\\users\\jacob\\source\\repos\\413final\\backend\\413final\\413final\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EB34309-29CD-470C-8541-0A49EF54005A}|413Final\\413Final.csproj|solutionrelative:413final\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB34309-29CD-470C-8541-0A49EF54005A}|413Final\\413Final.csproj|c:\\users\\jacob\\source\\repos\\413final\\backend\\413final\\413final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EB34309-29CD-470C-8541-0A49EF54005A}|413Final\\413Final.csproj|solutionrelative:413final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB34309-29CD-470C-8541-0A49EF54005A}|413Final\\413Final.csproj|c:\\users\\jacob\\source\\repos\\413final\\backend\\413final\\413final\\models\\entertainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB34309-29CD-470C-8541-0A49EF54005A}|413Final\\413Final.csproj|solutionrelative:413final\\models\\entertainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Engagement.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\413Final\\backend\\413Final\\413Final\\Models\\Engagement.cs",
+              "RelativeDocumentMoniker": "413Final\\Models\\Engagement.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\413Final\\backend\\413Final\\413Final\\Models\\Engagement.cs",
+              "RelativeToolTip": "413Final\\Models\\Engagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:39:01.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntertainerWithStats.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\413Final\\backend\\413Final\\413Final\\Models\\Dto\\EntertainerWithStats.cs",
+              "RelativeDocumentMoniker": "413Final\\Models\\Dto\\EntertainerWithStats.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\413Final\\backend\\413Final\\413Final\\Models\\Dto\\EntertainerWithStats.cs",
+              "RelativeToolTip": "413Final\\Models\\Dto\\EntertainerWithStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:36:49.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\413Final\\backend\\413Final\\413Final\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "413Final\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\413Final\\backend\\413Final\\413Final\\Properties\\launchSettings.json",
+              "RelativeToolTip": "413Final\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T16:20:40.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\413Final\\backend\\413Final\\413Final\\appsettings.json",
+              "RelativeDocumentMoniker": "413Final\\appsettings.json",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\413Final\\backend\\413Final\\413Final\\appsettings.json",
+              "RelativeToolTip": "413Final\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T16:20:26.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntertainerController.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\413Final\\backend\\413Final\\413Final\\Controllers\\EntertainerController.cs",
+              "RelativeDocumentMoniker": "413Final\\Controllers\\EntertainerController.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\413Final\\backend\\413Final\\413Final\\Controllers\\EntertainerController.cs",
+              "RelativeToolTip": "413Final\\Controllers\\EntertainerController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:01:48.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\413Final\\backend\\413Final\\413Final\\Program.cs",
+              "RelativeDocumentMoniker": "413Final\\Program.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\413Final\\backend\\413Final\\413Final\\Program.cs",
+              "RelativeToolTip": "413Final\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:52:39.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntertainmentAgencyContext.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\413Final\\backend\\413Final\\413Final\\Data\\EntertainmentAgencyContext.cs",
+              "RelativeDocumentMoniker": "413Final\\Data\\EntertainmentAgencyContext.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\413Final\\backend\\413Final\\413Final\\Data\\EntertainmentAgencyContext.cs",
+              "RelativeToolTip": "413Final\\Data\\EntertainmentAgencyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:00:18.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Entertainer.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\413Final\\backend\\413Final\\413Final\\Models\\Entertainer.cs",
+              "RelativeDocumentMoniker": "413Final\\Models\\Entertainer.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\413Final\\backend\\413Final\\413Final\\Models\\Entertainer.cs",
+              "RelativeToolTip": "413Final\\Models\\Entertainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:58:46.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

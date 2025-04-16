@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "_413Final.Controllers.EntertainerController",
+    "Method": "GetAll",
+    "RelativePath": "api/Entertainer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_413Final.Controllers.EntertainerController",
+    "Method": "AddEntertainer",
+    "RelativePath": "api/Entertainer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entertainer",
+        "Type": "_413Final.Models.Entertainer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_413Final.Controllers.EntertainerController",
+    "Method": "GetById",
+    "RelativePath": "api/Entertainer/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_413Final.Controllers.EntertainerController",
+    "Method": "UpdateEntertainer",
+    "RelativePath": "api/Entertainer/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "entertainer",
+        "Type": "_413Final.Models.Entertainer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_413Final.Controllers.EntertainerController",
+    "Method": "DeleteEntertainer",
+    "RelativePath": "api/Entertainer/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_413Final.Controllers.EntertainerController",
+    "Method": "GetWithStats",
+    "RelativePath": "api/Entertainer/WithStats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
